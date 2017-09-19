@@ -5,6 +5,7 @@
   "author": "rhiroy",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.16.2",
     "babel-cli": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.0",
@@ -12,6 +13,8 @@
     "babel-preset-react": "^6.24.1",
     "body-parser": "^1.18.1",
     "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.12",
     "nodemon": "^1.12.1",
     "path": "^0.12.7",
     "react": "^15.6.1",
